@@ -1,0 +1,83 @@
+INFO  - 2019-09-23 21:43:42.203; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-23 21:43:42.388; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-23 21:43:42.509; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-23 22:38:21.745; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-23 22:38:21.944; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-23 22:38:22.066; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-23 23:25:06.020; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-23 23:25:06.203; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-23 23:25:06.254; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-23 23:26:14.232; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-23 23:26:14.528; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-23 23:26:14.699; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-23 23:49:07.950; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-23 23:49:08.145; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-23 23:49:08.266; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+<<<<<<< HEAD
+INFO  - 2019-09-25 10:30:56.000; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-25 10:30:56.217; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-25 10:30:56.338; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-25 10:50:27.613; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-25 10:50:27.809; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-25 10:50:27.927; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+=======
+INFO  - 2019-09-25 20:32:28.090; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-25 20:32:28.259; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-25 20:32:28.347; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-25 20:32:29.264; com.inetbanking.testCases.TC_LoginTest_001; Login test passed
+INFO  - 2019-09-25 20:46:48.433; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-25 20:46:48.608; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-25 20:46:48.726; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-25 20:46:49.582; com.inetbanking.testCases.TC_LoginTest_001; Login test passed
+INFO  - 2019-09-26 23:36:22.355; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-26 23:36:22.514; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-26 23:36:22.602; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-26 23:36:23.449; com.inetbanking.testCases.TC_LoginTest_001; Login test passed
+INFO  - 2019-09-26 23:54:49.381; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-26 23:54:49.575; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-26 23:54:49.761; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-26 23:54:50.690; com.inetbanking.testCases.TC_LoginTest_001; Login test passed
+INFO  - 2019-09-27 00:00:02.789; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-27 00:00:02.936; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-27 00:00:03.017; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-27 00:00:03.982; com.inetbanking.testCases.TC_LoginTest_001; Login test passed
+INFO  - 2019-09-27 19:17:14.308; com.inetbanking.testCases.TC_LoginTest_001; URL is opened
+INFO  - 2019-09-27 19:17:14.476; com.inetbanking.testCases.TC_LoginTest_001; Entered username
+INFO  - 2019-09-27 19:17:14.572; com.inetbanking.testCases.TC_LoginTest_001; Entered password
+INFO  - 2019-09-27 19:17:15.532; com.inetbanking.testCases.TC_LoginTest_001; Login test passed
+INFO  - 2019-09-27 19:37:23.033; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:37:23.119; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:37:24.366; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:37:24.435; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:37:25.519; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:37:25.587; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:37:26.704; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:37:26.771; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:37:27.739; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:37:27.808; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:42:49.426; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:42:49.511; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:42:50.685; com.inetbanking.testCases.TC_LoginDDT_002; login failed
+INFO  - 2019-09-27 19:42:50.802; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:42:50.878; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:42:51.801; com.inetbanking.testCases.TC_LoginDDT_002; login failed
+INFO  - 2019-09-27 19:42:51.913; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:42:51.985; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:42:52.922; com.inetbanking.testCases.TC_LoginDDT_002; login failed
+INFO  - 2019-09-27 19:42:53.036; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:42:53.101; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:42:54.226; com.inetbanking.testCases.TC_LoginDDT_002; login failed
+INFO  - 2019-09-27 19:42:54.325; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:42:54.387; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:42:55.369; com.inetbanking.testCases.TC_LoginDDT_002; login failed
+INFO  - 2019-09-27 19:45:23.093; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:45:23.193; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:45:24.353; com.inetbanking.testCases.TC_LoginDDT_002; login passed
+INFO  - 2019-09-27 19:45:25.897; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:45:25.967; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:45:26.902; com.inetbanking.testCases.TC_LoginDDT_002; login failed
+INFO  - 2019-09-27 19:45:27.022; com.inetbanking.testCases.TC_LoginDDT_002; username provided
+INFO  - 2019-09-27 19:45:27.095; com.inetbanking.testCases.TC_LoginDDT_002; password provided
+INFO  - 2019-09-27 19:45:27.951; com.inetbanking.testCases.TC_LoginDDT_002; login failed
+INFO  - 2019-09-27 22:13:08.939; com.inetbanking.testCases.TC_AddCustomerTest_003; customer added - pass
+>>>>>>> e5cd79962036032af283c40437ebc7ae84bd6915
