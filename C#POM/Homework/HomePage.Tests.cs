@@ -21,6 +21,13 @@ namespace Homework
         public void BeforeMethod()
         {
             driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+
+         /* ChromeOptions options = new ChromeOptions();
+            options.PlatformName = "windows";
+            options.BrowserVersion = "77.0";
+            driver = new RemoteWebDriver(new Uri("http://192.168.0.104:4444/wd/hub"), options.ToCapabilities(), TimeSpan.FromSeconds(10));
+            driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(30); */
+
             driver.Manage().Window.Maximize();
             homePage = new HomePage(driver);
             
